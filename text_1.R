@@ -8,5 +8,7 @@
 # this can be found by navigating the tabs Git <- Diff <- History
 
 
+# instructions for reverting to earlier copy:
+# do the folliwing in terminal 
+# git reset --hard SHA
 
-# random text 
